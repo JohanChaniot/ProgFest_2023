@@ -1,0 +1,2 @@
+def SayGoodbye():
+    print("Goodbye!")
