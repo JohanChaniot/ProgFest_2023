@@ -1,5 +1,5 @@
 def SayHello():
     print("Hello you!\n")
 
-def SayHowAreYou()
+def AskHowAreYou()
     print("Ca va bien?\n")
